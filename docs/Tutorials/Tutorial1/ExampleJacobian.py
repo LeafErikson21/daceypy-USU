@@ -9,7 +9,7 @@ import numpy
 # da.linear should produce the same output as jacobian... use this to double check your work --DONE
 # By next week, push code and let Dr. Kulik know when it's pushed --DONE
 
-# Then make the Jacobian applicable  in higher orders (multi-dimensional array)
+# Then make the Jacobian applicable  in higher orders (multi-dimensional array) --DONE
 
 def first_order_jacobian(array):
     jacobian = []
